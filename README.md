@@ -20,7 +20,7 @@ eye app files:
  functions
 
 -collector: This is the main function. Αll processes take place in this function.
- url: http://yourdomain.com/eye/collector
+url: http://yourdomain.com/eye/collector
 
 -getSession: Return specific session by session_id.
  url: http://yourdomain.com/eye/event
