@@ -19,23 +19,23 @@ eye app files:
 
  functions
 
--collector: This is the main function. Αll processes take place in this function.
+ collector: This is the main function. Αll processes take place in this function.
  
  url: http://yourdomain.com/eye/collector
 
--getSession: Return specific session by session_id.
+ getSession: Return specific session by session_id.
  
  url: http://yourdomain.com/eye/event
 
--catEvents: Return events by specific category.
+ catEvents: Return events by specific category.
  
  url: http://yourdomain.com/eye/category-events
 
--timeRangeEvents: Return events between time range.
+ timeRangeEvents: Return events between time range.
  
  url: http://yourdomain.com/eye/range-events
 
--invalidTimestamp: Return events with invalid timestamp.
+ invalidTimestamp: Return events with invalid timestamp.
  
  url: http://yourdomain.com/eye/invalid-time
   
